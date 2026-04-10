@@ -1,8 +1,7 @@
 # Real-Time Object Counter in C++
 
-A complete **C++ + OpenCV** computer vision project that detects moving objects, tracks them with stable IDs, counts **entry / exit crossings** across a configurable line, and optionally saves both the processed video and a **CSV log** of crossing events.
+**C++ + OpenCV**, ables to detects moving objects, tracks them with stable IDs, counts **entry / exit crossings** across a configurable line, and optionally saves both the processed video and a **CSV log** of crossing events.
 
-This repository is ready to upload to **GitHub** as a clean portfolio project.
 
 ## Highlights
 
@@ -184,7 +183,7 @@ cmake --build . --config Release
 9. Count only when the stable side changes across the band
 10. Draw boxes, IDs, trails, line, band, and counters
 
-## Suggested GitHub Improvements
+## Suggested for GitHub Improvements
 
 To make the repository even stronger after upload:
 - Add a **GIF demo**
@@ -194,4 +193,4 @@ To make the repository even stronger after upload:
 
 ## Author
 
-Built by **Alan Masoud**
+Built by Alan Masoud
