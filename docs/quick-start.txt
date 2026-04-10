@@ -1,0 +1,6 @@
+Quick start:
+1. Install OpenCV on your machine.
+2. Put a demo video inside assets/input/.
+3. Build the project with CMake.
+4. Run the executable with --video or use the webcam.
+5. Optionally add --output and --csv to save results.
