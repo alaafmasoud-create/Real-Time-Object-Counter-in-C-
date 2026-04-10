@@ -1,5 +1,5 @@
 # Real-Time Object Counter
-**C++ with OpenCV**, ables to detects moving objects, tracks them with stable IDs, counts **entry / exit crossings** across a configurable line, and optionally saves both the processed video and a **CSV log** of crossing events.
+Created by C++ with OpenCV, ables to detect moving objects, track them with stable IDs, count **entry / exit crossings** across a configurable line, and optionally saves both the processed video and a **CSV log** of crossing events.
 
 
 ## Highlights
